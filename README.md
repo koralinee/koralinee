@@ -12,7 +12,7 @@
   <img align="center" alt="Karol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Karol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Karol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Karol-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/707012939407949844/1021802558886510662/C0EABFBC-B1B0-4D4C-A6BE-23949DF58491.jpg">.
+  <img align="right" alt="Karol-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/707012939407949844/1021802558886510662/C0EABFBC-B1B0-4D4C-A6BE-23949DF58491.jpg">
 </div>
   
   ##
