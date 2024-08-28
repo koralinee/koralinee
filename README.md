@@ -14,7 +14,7 @@
   <img align="center" alt="Karol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Karol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Karol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Karol-pic" height="150" style="border-radius:50;" src="[[https://cdn.discordapp.com/attachments/1026274459868479590/1218265112671027260/coraline.jpg?ex=660708cd&is=65f493cd&hm=18964cbd54e90c80897a3db3e901d87d6827eba0997902ecea1ee6468ee39efd&](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.letras.mus.br%2Fcoraline-jones-o-mundo-secreto%2Ffotos.html&psig=AOvVaw2VaIrkTgK4IU1_mlX-e0FY&ust=1724960016302000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiVg_y2mIgDFQAAAAAdAAAAABAE)](https://akamai.sscdn.co/uploadfile/letras/fotos/c/9/8/2/c982ad015163e39278913be345eac98c.jpg)">
+  <img align="right" alt="Karol-pic" height="150" style="border-radius:50;" src="https://avatars.githubusercontent.com/u/83779371?v=4">
 </div>
   <center> 
     
